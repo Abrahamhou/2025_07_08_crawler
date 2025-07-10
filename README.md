@@ -4,9 +4,4 @@
 **上課網址**
 https://meet.google.com/rvq-smie-nnp
 
-## Feature
-* python basic
-* python class
-* python crawler
-* python windows
 
