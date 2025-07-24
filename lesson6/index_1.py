@@ -1,10 +1,6 @@
 import wantgoo
 import asyncio
 
-
-
-
-
 def main():
     urls = [
         "https://www.wantgoo.com/stock/2330/technical-chart",
@@ -22,8 +18,5 @@ def main():
     for stock in reuslts:
         print(stock)
 
-
-
 if __name__ == "__main__":
-    #main()
-    print(wantgoo.get_stocks_with_twstock())
+    main()
